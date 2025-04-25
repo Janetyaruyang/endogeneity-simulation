@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Endogeneity Simulation
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_The common endogeneity issues are addressed here to form a better hands-on understanding._
 
 </header>
 
