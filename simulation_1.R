@@ -1,8 +1,4 @@
 
-######################
-#     FINANCE 4      #
-#   Homework 1    #
-#  Yaru(Janet) YANG   #
 
 # Install only if not already installed
 if (!require("tidyverse")) install.packages("tidyverse")
